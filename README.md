@@ -1,7 +1,5 @@
 # Python_Book
 from 0 to 0.1 Python learning
-# Python
-
 ## Get Start!(install)
 How to start?
 要怎麼開始寫python
